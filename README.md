@@ -12,3 +12,8 @@
 ## Technologies 
 
 - redis, mongodb, HTML, CSS, Javascript (ES6), React.js, Redux, Node.js, Express.js, websocket
+
+## Future Enhancements
+
+- Application can be useful for any group of people to chat and discuss
+- It gives a simple chatbox to chat for now but can extend with users names and to edit delete messages
