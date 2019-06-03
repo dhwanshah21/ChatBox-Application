@@ -4,10 +4,12 @@
 
 ## Steps To Run The Application
 
+- Start the MongoDB server
+- Start the redis server
 - Run yarn/npm install to install the dependencies.
 - pm2 start process.config.js to start all the backend services
 - Run yarn start or npm start to run the app and go to http://localhost:3000/ to view. 
-  I have tested it on chrome browser.
+- I have tested it on chrome browser.
 
 ## Technologies 
 
